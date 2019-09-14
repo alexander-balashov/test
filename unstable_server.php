@@ -16,7 +16,7 @@
 	  echo 'Test page';
 	  echo 'Test page';
 	  echo 'Test page';
-	  echo '<img src="http://mikhaylov.com/wp-content/uploads/2017/01/16002951_1004612966336622_6271259158895442053_n.jpg">';
+	  echo '<img src="https://alexander-balashov.github.io/test/wp-content/uploads/2017/01/16002951_1004612966336622_6271259158895442053_n.jpg">';
 	  echo '</p>';
 
 	  
